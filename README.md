@@ -4,7 +4,6 @@ A decentralized voting system where a user can walk into a government authorized
 
 
 
-**NOTE:** All diagrams are made by me and appropriate credits must be given before copying it.
 ## Key Advantages
 
  - **No VoterID required** as a user's validity (age: 18+) is determined dynamically using the Aadhaar API 
